@@ -3,4 +3,4 @@ theme: jekyll-theme-cayman
 title: [Test Site]
 description: [Testing out a Jekyll Template on GitHub Pages]
 
-show_downloads: ["false"]
+show_downloads: ["true"]
