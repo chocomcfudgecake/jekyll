@@ -1,6 +1,3 @@
----
-layout: default
----
 
 <h2> About</h2>
 
