@@ -4,6 +4,8 @@ layout: default
 
 <h2> Hello World!</h2>
 
+[Link to another page](about).
+
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed enim at sapien tempor maximus in quis nisi. Etiam eget purus vitae ante commodo aliquam eget id erat. Maecenas quis mattis sapien. Sed sollicitudin ante metus. Vivamus vel tempus mi. Nunc semper pellentesque ornare. Phasellus condimentum orci elit, sit amet pellentesque dolor faucibus quis.</p>
 
 Integer fringilla urna eu tempus posuere. Duis malesuada arcu vitae viverra blandit. Fusce convallis, mauris vitae lacinia placerat, neque nunc fermentum lectus, id dictum arcu tellus eu nulla. Suspendisse et risus vitae lacus egestas consequat. Sed accumsan eget tortor ac mollis. Quisque gravida, nibh vitae lacinia facilisis, lorem massa facilisis ex, at maximus augue lectus a erat. Nunc porttitor varius neque, eget molestie elit mattis eu.
